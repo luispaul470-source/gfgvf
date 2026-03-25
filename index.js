@@ -6,5 +6,5 @@ const Sub = (val, val1) => {
 
 
 function addition() {
-    Add(5, 6)
+    addition(); // call the Sub function or define Add if intended
 }
